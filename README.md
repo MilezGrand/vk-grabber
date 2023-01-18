@@ -1,6 +1,6 @@
 # vk-grabber
 
-Grab posts from other VK clubs and post in your
+Grab posts from other VK clubs and post in yours
 ## .env
 
 ```dotenv
