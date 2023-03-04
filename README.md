@@ -1,6 +1,7 @@
 # vk-grabber
 
-Grab posts from other VK clubs and post in yours
+Grab posts from other VK clubs and post in yours,
+**bypassing the copyright system**
 ## .env
 
 ```dotenv
